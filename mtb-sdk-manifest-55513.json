@@ -1,0 +1,101 @@
+{
+  "sdks": [
+    {
+      "id": "55513_virtual_sdk",
+      "name": "55513_virtual_sdk",
+      "description": "55513_virtual_sdk.",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "description": "55513_virtual_sdk v1.0.0",
+          "assets": [
+            {
+              "reponame": "TARGET_CYW955513EVK-01",
+              "commit": "release-v1.0.1"
+            },
+            {
+              "reponame": "audio-profiles-controls-module",
+              "commit": "release-v1.0.0"
+            },
+		    {
+              "reponame": "common-include",
+              "commit": "release-v1.0.0"
+            },
+		    {
+              "reponame": "BTSpy-utils",
+              "commit": "release-v1.0.0"
+            },
+		    {
+              "reponame": "Client-Control",
+              "commit": "release-v1.0.0"
+            },
+			{
+              "reponame": "pan-profile",
+              "commit": "release-v1.0.0"
+            },
+		    {
+              "reponame": "btsdk-drivers",
+              "commit": "release-v4.8.0"
+            },
+		    {
+              "reponame": "clib-support",
+              "commit": "release-v1.9.0"
+            },
+            {
+              "reponame": "cmsis",
+              "commit": "release-v5.8.0"
+            },
+            {
+              "reponame": "core-lib",
+              "commit": "release-v1.8.0"
+            },
+            {
+              "reponame": "core-make",
+              "commit": "release-v3.9.0"
+            },
+			{
+              "reponame": "device-db",
+              "commit": "release-v4.38.0"
+            },
+            {
+              "reponame": "mtb-hal-cat5",
+              "commit": "release-v1.2.0"
+            },
+            {
+              "reponame": "recipe-make-cat5",
+              "commit": "release-v1.6.0"
+            },
+            {
+              "reponame": "retarget-io",
+              "commit": "release-v1.10.0"
+            },
+			{
+              "reponame": "abstraction-rtos",
+              "commit": "release-v1.10.0"
+            },
+			{
+              "reponame": "mtb-pdl-cat5",
+              "commit": "release-v5.1.0"
+            },
+            {
+              "reponame": "mtb-example-btstack-threadx-le-audio-headset",
+              "commit": "release-v2.0.2"
+            },
+            {
+              "reponame": "mtb-example-btstack-threadx-le-audio-player",
+              "commit": "release-v2.0.2"
+            },
+            {
+              "reponame": "mtb-example-btstack-threadx-audio-headset-speaker",
+              "commit": "release-v1.2.0"
+            },
+            {
+              "reponame": "mtb-example-btstack-threadx-audio-watch",
+              "commit": "release-v1.2.0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
